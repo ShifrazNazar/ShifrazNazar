@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Shifraz Nazar</h1>
 <h3 align="center">Creating code that makes a difference, one line at a time.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shifraznazar" alt="shifraznazar" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shifraznazar&row=1&theme=dracula"" alt="shifraznazar" /></a> </p>
 
 - 🌱 I’m currently learning **ReactJS**
 
