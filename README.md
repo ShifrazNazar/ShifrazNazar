@@ -4,9 +4,9 @@
 <h1 align="center">Hi 👋, I'm Shifraz Nazar</h1>
 <h3 align="center">Creating code that makes a difference, one line at a time.</h3>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **NextJS**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-ruby-eta-31.vercel.app/](https://portfolio-ruby-eta-31.vercel.app/)
+- 👨‍💻 All of my projects are available at https://shifraznazar.vercel.app/
 
 - 📫 How to reach me **shifraznazar@gmail.com**
 
