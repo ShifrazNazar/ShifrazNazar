@@ -2,7 +2,7 @@
 <img alt="Coding"  src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 </div>
 <h1 align="center">Hi 👋, I'm Shifraz Nazar</h1>
-<h3 align="center">Ctrl+C, Ctrl+V specialist with a twist of genius 🧑‍💻✨</h3>
+<h3 align="center">SUIIII</h3>
 
 - 👨‍💻 All of my projects are available <a href="https://shifraznazar.vercel.app" target="_blank">here</a>
 
