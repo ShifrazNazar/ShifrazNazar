@@ -12,11 +12,7 @@
 
 <hr>
 
-<h3 align="left">Tech Stack</h3>
-
-<p align="left">
-  💻 Tech Stack I work with:
-</p>
+<h3 align="left">💻 Tech Stack I work with:</h3>
 
 <p align="left">
   <!-- Frontend -->
