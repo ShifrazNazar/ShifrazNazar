@@ -15,9 +15,9 @@
 <h3 align="left">Tech Stack</h3>
 
 <p align="left">
-  Here are some of the technologies I work with:
+  💻 Tech Stack I work with:
 </p>
-💻 Tech Stack
+
 <p align="left">
   <!-- Frontend -->
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
