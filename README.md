@@ -6,7 +6,7 @@
 
 <h3 align="center">Software Developer</h3>
 
-- 👨‍💻 Portfolio: Check out my projects <a href="shifraz.me" target="_blank" rel="noopener noreferrer">here</a>
+- 👨‍💻 Portfolio: Check out my projects <a href="https://shifraz.me" target="_blank" rel="noopener noreferrer">here</a>
 
 - 📫 Contact: Reach me at <a href="mailto:shifraznazar@gmail.com">shifraznazar@gmail.com</a>
 
